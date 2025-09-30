@@ -14,6 +14,7 @@ Le taux d’humidité
 La vitesse du vent
 
 🎨 Le design est réalisé avec HTML, CSS [tailwind] et la logique avec JavaScript.
+https://benrazek-anbar.github.io/Weather-App/
 
 ![Screenshot_29-9-2025_2309_](https://github.com/user-attachments/assets/a047888c-7b50-4476-8f3c-b7d431d0d95b)
 
